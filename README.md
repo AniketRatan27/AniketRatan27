@@ -17,15 +17,14 @@ Currently, I am expanding my skill set by exploring **Blockchain technologies**,
 ## 🧠 Tech Stack Snapshot
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,react,nodejs,android,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,react,nodejs,android,mysql,mongodb,git,github,vscode,postman,pycharm,anaconda" />
 </p>
-
 ---
 
 ## 📚 Currently Exploring
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin" />
+  <img src="https://skillicons.dev/icons?i=kotlin,docker,mongodb" />
 </p>
 
 <p align="center">
