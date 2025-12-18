@@ -34,6 +34,9 @@ Currently, I am expanding my skill set by exploring **Blockchain technologies**,
   <img src="https://img.shields.io/badge/AI%20Integration-Hands--On-orange?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketRatan27&layout=compact&theme=tokyonight" />
+</p>
 <!--
 **AniketRatan27/AniketRatan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
