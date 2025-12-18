@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I’m Aniket Ratan
 
+🎓 MCA student | 💻 Software Developer | 📱 Android & Web Enthusiast
+
+👨‍💻 About Me
+
+I am a Master of Computer Applications (MCA) student with a strong foundation in Java, Android, and modern web technologies. I enjoy building practical, user-focused applications and continuously improving my problem‑solving skills through projects and competitive programming.
+
+I have hands-on experience in Android development, full‑stack web development, and object‑oriented programming, and I enjoy learning new technologies by building real-world projects.
 <!--
 **AniketRatan27/AniketRatan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
