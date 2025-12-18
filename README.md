@@ -34,6 +34,8 @@ Currently, I am expanding my skill set by exploring **Blockchain technologies**,
   <img src="https://img.shields.io/badge/AI%20Integration-Hands--On-orange?style=for-the-badge" />
 </p>
 
+## 📊 Most Used Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketRatan27&layout=compact&theme=tokyonight" />
 </p>
